@@ -1,0 +1,26 @@
+:root {
+   /* root color variables */
+   --bright-blue: #007bff;
+   --nd-blue: #20364c;
+   --cool-blue: #3c7aa5;
+   /* --body-background: #f7f9fa; */
+   --bg-light-gray: #f0f3f6;
+   --body-background: #f0f3f6;
+   --ghost-white: ghostwhite;
+   --alice-blue: aliceblue;
+   --footer-slate: #20364c;
+   --white: white;
+   --slate-gray: lightslategray;
+   --silver: silver;
+   --graphite: #506578;
+   --trench-blue: #406885;
+   --chocolate: #d2691e;
+}
+
+body {
+   font-size: 1.1rem;
+}
+
+.chocolate {
+   color: var(--chocolate);
+}
