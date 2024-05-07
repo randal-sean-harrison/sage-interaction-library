@@ -24,3 +24,7 @@ body {
 .chocolate {
    color: var(--chocolate);
 }
+
+.graphite {
+   color: var(--graphite);
+}
